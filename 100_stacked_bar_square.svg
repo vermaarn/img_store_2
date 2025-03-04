@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 383.68 383.68">
+  <defs>
+    <clipPath id="clippath">
+      <rect x="73.7" y="73.7" width="236.28" height="236.28" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect x="5.5" y="5.5" width="372.68" height="372.68" style="fill: none; stroke: #000; stroke-width: 11px;"/>
+    <g style="clip-path: url(#clippath);">
+      <line x1="78.5" y1="73.7" x2="78.5" y2="309.93" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <line x1="309.98" y1="305.18" x2="73.75" y2="305.18" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="102.86" y="80.46" width="43.23" height="206.45" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="176.59" y="80.46" width="43.23" height="206.45" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="251.2" y="80.46" width="43.23" height="206.45" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="105.83" y="191.8" width="40.25" height="95.1"/>
+      <rect x="105.83" y="191.8" width="40.25" height="95.1" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="176.59" y="124.7" width="39.62" height="159.06"/>
+      <rect x="176.59" y="124.7" width="39.62" height="159.06" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="254.15" y="232.86" width="40.27" height="49.54"/>
+      <rect x="254.15" y="232.86" width="40.27" height="49.54" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+    </g>
+  </g>
+</svg>
