@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.11 83.11">
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <polyline points="19.66 47.13 19.66 62.19 33.22 62.19 33.22 47.13" style="fill: #424243;"/>
+      <polyline points="35.79 20.92 35.79 62.19 49.36 62.19 49.36 20.92" style="fill: #424243;"/>
+      <rect x="18.2" y="63.33" width="48.9" height="1.09" style="stroke: #000; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="17.1" y="15.51" width="1.1" height="48.9" style="stroke: #000; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="42.57" y1="20.92" x2="42.57" y2="47.62" style="fill: none; stroke: #ff4243; stroke-dasharray: 3; stroke-miterlimit: 10; stroke-width: 6px;"/>
+      <polyline points="52.13 33.17 52.13 62.08 65.69 62.08 65.69 33.17" style="fill: #424243;"/>
+    </g>
+    <rect x=".75" y=".75" width="81.61" height="81.61" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 1.5px;"/>
+  </g>
+</svg>

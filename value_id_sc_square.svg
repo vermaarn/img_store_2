@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.11 83.11">
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <line x1="19.15" y1="12.67" x2="19.15" y2="62.67" style="fill: none; stroke: #282525; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <line x1="18.18" y1="62.08" x2="68.18" y2="62.08" style="fill: none; stroke: #282525; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <circle cx="34.88" cy="46.77" r="4.17" style="fill: #ff4243;"/>
+      <circle cx="53.69" cy="26.93" r="4.17" style="fill: #0b0506;"/>
+    </g>
+    <rect x=".75" y=".75" width="81.61" height="81.61" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 1.5px;"/>
+  </g>
+</svg>
