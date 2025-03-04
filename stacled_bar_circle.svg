@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375.75 375.75">
+  <defs>
+    <clipPath id="clippath">
+      <rect width="375.75" height="375.75" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="63.82" y="62.82" width="248.11" height="248.11" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g style="clip-path: url(#clippath);">
+      <circle cx="187.87" cy="187.87" r="181.37" style="fill: none; stroke: #000; stroke-width: 11px;"/>
+    </g>
+    <g style="clip-path: url(#clippath-1);">
+      <line x1="68.85" y1="62.82" x2="68.85" y2="310.88" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+      <line x1="311.93" y1="305.89" x2="63.87" y2="305.89" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+      <rect x="94.43" y="69.91" width="45.39" height="216.78" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+      <rect x="171.86" y="133.79" width="45.39" height="152.91" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+      <rect x="250.2" y="174.41" width="45.39" height="112.29" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+      <rect x="97.56" y="186.83" width="42.27" height="99.86"/>
+      <rect x="97.56" y="186.83" width="42.27" height="99.86" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+      <rect x="171.86" y="229.97" width="41.6" height="53.43"/>
+      <rect x="171.86" y="229.97" width="41.6" height="53.43" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+      <rect x="253.3" y="256.67" width="42.29" height="25.29"/>
+      <rect x="253.3" y="256.67" width="42.29" height="25.29" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 10.07px;"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375.75 375.75">
+  <defs>
+    <clipPath id="clippath">
+      <rect width="375.75" height="375.75" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="63.12" y="62.95" width="249.5" height="249.85" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g style="clip-path: url(#clippath);">
+      <circle cx="187.87" cy="187.87" r="181.37" style="fill: none; stroke: #000; stroke-width: 11px;"/>
+    </g>
+    <g style="clip-path: url(#clippath-1);">
+      <circle cx="97.11" cy="96.93" r="29.31" transform="translate(-29.7 44.54) rotate(-22.5)" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <circle cx="187.87" cy="96.93" r="29.31" transform="translate(62.1 266.85) rotate(-80.78)" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <circle cx="278.64" cy="96.93" r="29.31" transform="translate(138.33 356.45) rotate(-80.78)" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <path d="M67.81,187.87c0,16.18,13.13,29.31,29.31,29.31s29.31-13.13,29.31-29.31-13.13-29.31-29.31-29.31-29.31,13.13-29.31,29.31"/>
+      <circle cx="97.11" cy="187.87" r="29.31" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <circle cx="187.87" cy="187.87" r="29.31" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <circle cx="278.64" cy="187.87" r="29.31" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <path d="M71.39,278.82c0,16.18,13.13,29.31,29.31,29.31s29.31-13.13,29.31-29.31-13.13-29.31-29.31-29.31-29.31,13.13-29.31,29.31"/>
+      <circle cx="100.7" cy="278.82" r="29.31" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <path d="M160.36,278.82c0,16.18,13.13,29.31,29.31,29.31s29.31-13.13,29.31-29.31-13.13-29.31-29.31-29.31-29.31,13.13-29.31,29.31"/>
+      <circle cx="189.67" cy="278.82" r="29.31" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+      <path d="M249.34,278.82c0,16.18,13.13,29.31,29.31,29.31s29.31-13.13,29.31-29.31-13.13-29.31-29.31-29.31-29.31,13.13-29.31,29.31"/>
+      <circle cx="278.64" cy="278.82" r="29.31" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.36px;"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375.75 375.75">
+  <defs>
+    <clipPath id="clippath">
+      <rect width="375.75" height="375.75" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="66.44" y="68.45" width="245.86" height="241.13" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g style="clip-path: url(#clippath);">
+      <circle cx="187.87" cy="187.87" r="181.37" style="fill: none; stroke: #000; stroke-width: 11px;"/>
+    </g>
+    <g style="clip-path: url(#clippath-1);">
+      <path d="M66.44,68.45h11.03v219.07c0,7.89,1.57,11.03,11.03,11.03h223.79v11.03H66.44V68.45Z"/>
+      <rect x="138.94" y="196.11" width="39.39" height="81.95"/>
+      <rect x="176.76" y="133.06" width="37.82" height="144.99"/>
+      <polygon points="144.21 169.31 144.21 278.05 97.95 278.05 97.95 169.31 145.99 169.31 144.21 169.31"/>
+      <polyline points="252.41 278.06 213.02 278.06 213.02 144.09 252.41 144.09"/>
+      <polygon points="216.16 170.89 176.77 170.89 176.77 87.36 216.16 87.36 216.16 169.31 216.16 170.89"/>
+      <rect x="138.94" y="123.6" width="39.39" height="81.95"/>
+      <rect x="250.83" y="192.96" width="42.56" height="85.1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375.75 375.75">
+  <defs>
+    <clipPath id="clippath">
+      <rect width="375.75" height="375.75" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="69.73" y="69.74" width="236.28" height="236.28" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g style="clip-path: url(#clippath);">
+      <circle cx="187.87" cy="187.87" r="181.37" style="fill: none; stroke: #000; stroke-width: 11px;"/>
+    </g>
+    <g style="clip-path: url(#clippath-1);">
+      <line x1="74.53" y1="69.74" x2="74.53" y2="305.96" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <line x1="306.01" y1="301.22" x2="69.78" y2="301.22" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="98.89" y="76.49" width="43.23" height="206.45" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="172.63" y="76.49" width="43.23" height="206.45" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="247.23" y="76.49" width="43.23" height="206.45" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="101.86" y="187.83" width="40.25" height="95.1"/>
+      <rect x="101.86" y="187.83" width="40.25" height="95.1" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="172.63" y="120.73" width="39.62" height="159.06"/>
+      <rect x="172.63" y="120.73" width="39.62" height="159.06" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+      <rect x="250.18" y="228.89" width="40.27" height="49.54"/>
+      <rect x="250.18" y="228.89" width="40.27" height="49.54" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 9.59px;"/>
+    </g>
+  </g>
+</svg>
